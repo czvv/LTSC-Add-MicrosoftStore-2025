@@ -15,13 +15,6 @@ It installs all required AppX and MSIX packages in the correct order to avoid de
 
 ---
 
-## ⚠️ Notes & Warnings
-- This script is intended for **Windows LTSC** or editions where Microsoft Store is missing.
-- Running this on editions that already have the Store may reinstall or update it.
-- Make sure you have **Administrator privileges**.
-
----
-
 ## 🆘 Troubleshooting
 
 ### 1️⃣ Microsoft Store still doesn’t work
@@ -50,13 +43,6 @@ PowerShell -ExecutionPolicy Unrestricted -Command "& {$manifest = (Get-AppxPacka
 - Running this on editions that already have the Store may reinstall or update it.
 
 - Make sure you have Administrator privileges.
-
-- Only install trusted packages from official Microsoft sources.
-
----
-
-## 📜 License
-This project is licensed under the [MIT License](https://github.com/czvv/LTSC-Add-MicrosoftStore-2025/blob/main/LICENSE).
 
 ---
 
