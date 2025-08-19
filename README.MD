@@ -5,7 +5,11 @@ It installs all required AppX and MSIX packages in the correct order to avoid de
 
 ---
 
-## 🛠 Usage
+## ⚙️ Test OS
+
+- ### Windows 11 Enterprise N LTSC 24H2
+
+## 🔧 Usage
 
 1. **Run as Administrator**:
    - Right-click `Add-Microsoft-Store.bat` → **Run as administrator**
