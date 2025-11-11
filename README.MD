@@ -5,7 +5,7 @@ It installs all required AppX and MSIX packages in the correct order to avoid de
 
 ---
 
-## ⚙️ Test OS
+## ⚙️ Tested On
 
 - ### Windows 11 Enterprise N LTSC 24H2
 
